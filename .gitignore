@@ -1,7 +1,5 @@
 /target/
-.classpath
-.project
-.settings/com.genuitec.eclipse.j2eedt.core.prefs
-.settings/org.eclipse.wst.common.component
-.settings/org.maven.ide.eclipse.prefs
-pom.xml
+*.project
+*.classpath
+.externalToolBuilders
+.settings
